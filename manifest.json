@@ -1,7 +1,7 @@
 {
-    "name": "Word of the day",
+    "name": "Daily Word",
     "version": "0.01",
-    "description": "expand your mind with a word of the day",
+    "description": "Expand your mind with a Daily Word",
     "chrome_url_overrides": {
         "newtab": "newtab.html"
     },
